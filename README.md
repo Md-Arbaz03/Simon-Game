@@ -17,4 +17,4 @@ A fun and interactive **memory game** inspired by the classic Simon Says. Built 
 - Event Handling
 
 ## 📺 Demo Video
->
+> https://github.com/user-attachments/assets/c6b8e593-a050-4885-871f-f4689711157c
