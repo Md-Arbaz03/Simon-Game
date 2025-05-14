@@ -10,8 +10,8 @@ A fun and interactive **memory game** inspired by the classic Simon Says. Built 
 - Game Over alert with restart functionality
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - DOM Manipulation
 - Event Handling
